@@ -1,0 +1,3 @@
+[submodule "Configs/.config/kitty"]
+	path = Configs/.config/kitty
+	url = git@github.com:Andreasgdp/kitty.git
