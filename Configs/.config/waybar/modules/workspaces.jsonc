@@ -4,6 +4,7 @@
         "all-outputs": true,
         "active-only": false,
         "on-click": "activate",
+        "all-outputs": false,
         "persistent-workspaces": {
         }
     },

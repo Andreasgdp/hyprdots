@@ -35,8 +35,13 @@ tooltip {
     animation: ws_normal 20s ease-in-out 1;
 }
 
+#workspaces button.visible {
+  background: @wb-act-bg;
+  color: @wb-act-fg;
+}
+
 #workspaces button.active {
-    background: @wb-act-bg;
+    background: #4bbf69;
     color: @wb-act-fg;
     margin-${x3}: ${w_margin}px;
     padding-${x3}: ${w_padact}px;
